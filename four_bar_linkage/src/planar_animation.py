@@ -1,7 +1,6 @@
 import numpy as np
 from matplotlib import pyplot as plt
 from matplotlib import animation
-from math import pi as PI
 
 from src.planar_geometry import PlanarGeometry
 
