@@ -3,5 +3,5 @@ An advanced crank designer and simulation program,  for a wide variety of Ornith
 
 Welcome to the reworked version of the Ornithopter crank designer! This will take the place of the previous excel spreadsheet version.
 
-# Coming Soon...
-Files are being developed now.
+# Verison 0.1 Beta is now finished!
+Feel free to download the code and give it a test. Though the he software may have a few undiscovered bugs...
