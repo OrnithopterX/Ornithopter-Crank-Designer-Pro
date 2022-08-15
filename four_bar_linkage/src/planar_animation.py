@@ -57,4 +57,4 @@ class PlanarAnimation:
 	
 	def animate(self):
 		return animation.FuncAnimation( self._figure, self._fanim, init_func = self._finit,
-                                		frames = 800, interval = 5, blit = True )
+                                		frames = 1080, interval = 5, blit = True )
